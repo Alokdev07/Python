@@ -9,6 +9,6 @@ class Employee:
 employee = Employee()
 employee.name = "Alok"
 employee.show()
-employee.change_company("Google")
+Employee.change_company("Google")
 employee.show() 
 print(Employee.company)
