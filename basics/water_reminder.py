@@ -8,4 +8,4 @@ while True:
         timeout=10  # Notification stays for 10 sec
     )
     # Wait for 2 hours (2 * 60 * 60 seconds)
-    time.sleep(2 * 60 * 60)
+    time.sleep(1)
